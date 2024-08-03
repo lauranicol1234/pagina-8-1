@@ -12,8 +12,9 @@
      
 }
 body{
-    background-image: url("background-graphics-with-light-purple-white-black-gradients-use-designs-for-web-pages-apps-mobile-text-backgrounds-screens-wallpapers-decorations-and-art-design-elements-photo.jpg");
+    background-image: url("images.jpeg");
     
+     
 
 }
 .titulo{
@@ -32,6 +33,6 @@ float: left;
 }
 .titulo{
     font-size: 50px;
-    color: blueviolet;
-   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
+    color: rgb(226, 43, 119);
+font-family: Georgia, 'Times New Roman', Times, serif;
+   }
