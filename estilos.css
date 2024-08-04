@@ -1,24 +1,42 @@
 /* Temas del segundo período*/
 
 .texto{
-   
-    font-size: 50px;
-    padding-top: 140px;
+    font-size: 25px;
+    padding-top: 100px;
     text-align: justify;
-    color: rgb(20, 20, 20);
+    color: black;
 }
+   
+   
+   
 .principal{
    display: flex;
      
 }
 body{
-    background-image: url("background-graphics-with-light-purple-white-black-gradients-use-designs-for-web-pages-apps-mobile-text-backgrounds-screens-wallpapers-decorations-and-art-design-elements-photo.jpg");
-    background-repeat: no-repeat;
+    background-image: url(images.jpeg);
+  
+
 
 }
 .titulo{
     font-size: 50px;
-    text-align: center;
+   color: rgb(226, 43, 119);
+   font-family: Georgia, 'Times New Roman', Times, serif; 
 
+ 
+}  
+ .img1{
+    height: 1300px;;
+    width: 1300px; ;
+    background-image: url(imagen.png);
+    background-repeat: no-repeat; 
+ } 
 
+.img19{ 
+    height: 280px;;
+    width: 387px; ;
+    background-image: url(image-19.jpg);
+    background-repeat: no-repeat;  
+    float: left;
 }
