@@ -2,8 +2,8 @@
 
 .texto{
    
-    font-size: 25px;
-    padding-top: 100px;
+    font-size: 50px;
+    padding-top: 140px;
     text-align: justify;
     color: rgb(20, 20, 20);
 }
@@ -12,27 +12,13 @@
      
 }
 body{
-    background-image: url("images.jpeg");
-    
-     
+    background-image: url("background-graphics-with-light-purple-white-black-gradients-use-designs-for-web-pages-apps-mobile-text-backgrounds-screens-wallpapers-decorations-and-art-design-elements-photo.jpg");
+    background-repeat: no-repeat;
 
 }
 .titulo{
     font-size: 50px;
-    text-align:center;
+    text-align: center;
 
 
 }
-.img1{
-height: 280px;
-width: 387px;
-background-image: url("image-19.jpg");
-background-repeat: no-repeat;
-float: left;
-
-}
-.titulo{
-    font-size: 50px;
-    color: rgb(226, 43, 119);
-font-family: Georgia, 'Times New Roman', Times, serif;
-   }
