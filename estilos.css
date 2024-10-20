@@ -50,10 +50,18 @@ body{
 }
 
 
-.socialesimg{  
-    width: 900px;
+.socialesimg {   
     height: 900px;
     background-image: url(Socialesimg.jpeg);
     background-repeat: no-repeat;
-
 }
+
+.Max2{  
+    width:800px ;
+    height: 800px;
+    background-image: url( maxresdefault.jpg);
+    background-repeat: no-repeat;
+
+
+} 
+
