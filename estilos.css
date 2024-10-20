@@ -48,3 +48,12 @@ body{
     background-image: url(INICIO.webp);
     background-repeat: no-repeat;
 }
+
+
+.socialesimg{  
+    width: 900px;
+    height: 900px;
+    background-image: url(Socialesimg.jpeg);
+    background-repeat: no-repeat;
+
+}
